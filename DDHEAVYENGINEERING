@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>DD Heavy Engineering Works</title>
+  <style>
+    body{font-family:Arial, sans-serif;margin:0;padding:0;line-height:1.5}
+    header{background:#044e7a;padding:20px;color:#fff}
+    nav{max-width:1000px;margin:0 auto;display:flex;justify-content:space-between}
+    .container{max-width:1000px;margin:30px auto;padding:0 15px}
+    .hero{padding:40px 0}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+    footer{background:#222;color:#ddd;padding:20px;text-align:center;margin-top:40px}
+    a{color:inherit;text-decoration:none}
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <div><strong>DD Heavy Engineering Works</strong></div>
+      <div><a href="#services">Services</a> | <a href="#products">Products</a> | <a href="#contact">Contact</a></div>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h1>Welcome to DD Heavy Engineering Works</h1>
+      <p>We manufacture EOT cranes, supply spare parts and build all types of electrical control panels.</p>
+    </section>
+
+    <section id="services">
+      <h2>Our Services</h2>
+      <div class="grid">
+        <div><h3>EOT Cranes</h3><p>Heavy-duty crane manufacturing and installation</p></div>
+        <div><h3>Spare Parts</h3><p>All crane-related spares available</p></div>
+        <div><h3>Control Panels</h3><p>All types of industrial panels designed & manufactured</p></div>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Phone: +91 XXXXX XXXXX<br>Email: info@ddheavyengineering.com<br>Address: Your Company Address</p>
+    </section>
+  </main>
+
+  <footer>
+    © <script>document.write(new Date().getFullYear())</script> DD Heavy Engineering Works
+  </footer>
+</body>
+</html> 
