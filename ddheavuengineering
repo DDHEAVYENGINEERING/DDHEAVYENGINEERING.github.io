@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DD Heavy Engineering Works</title>
+    <style>
+        body { font-family: Arial; margin: 0; padding: 0; background: #f3f3f3; }
+        header { background: #003366; color: white; padding: 15px; text-align: center; }
+        h2 { color: #003366; }
+        .container { padding: 20px; }
+        .box { background: white; padding: 15px; margin: 10px 0; border-radius: 5px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>DD Heavy Engineering Works</h1>
+    <p>Complete Crane & Automation Panel Solutions – Manufacturing, Supply & Service</p>
+</header>
+
+<div class="container">
+
+    <div class="box">
+        <h2>Our Products</h2>
+        <ul>
+            <li>EOT Cranes & Gantry Cranes</li>
+            <li>Electric Hoists</li>
+            <li>All Crane Spare Parts</li>
+            <li>Automation Based Panels</li>
+            <li>Drive-Based & PLC-Based Panels</li>
+            <li>Normal Electrical Panels</li>
+        </ul>
+    </div>
+
+    <div class="box">
+        <h2>Contact Details</h2>
+        <p><strong>Address:</strong> 1309, Ashadeep Ananta Jagat, Bhiwadi</p>
+        <p><strong>Phone:</strong> 9823657470</p>
+        <p><strong>Email:</strong> d.d.heavyengineering@gmail.com</p>
+    </div>
+
+</div>
+
+</body>
+</html> 
